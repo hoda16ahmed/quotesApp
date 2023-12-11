@@ -1,0 +1,27 @@
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.6)), url(../img/bg-image-29.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+button:hover{
+    background-color: green;
+}
